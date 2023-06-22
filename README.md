@@ -1,4 +1,4 @@
 # Relógio
-Código HTML - CSS - JAVASCRIPT 
-Um relogio digital simples.
+Código HTML - CSS - JAVASCRIPT <br>
+Um relogio digital simples.<br>
 &T
